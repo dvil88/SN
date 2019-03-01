@@ -20,3 +20,4 @@ point 18
 point 19
 point 20
 point 21
+point 22
