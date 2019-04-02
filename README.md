@@ -32,3 +32,4 @@ point 30
 point 31
 point 32
 point 33
+point 34
