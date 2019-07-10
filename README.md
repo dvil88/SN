@@ -70,3 +70,4 @@ point 68
 point 69
 point 70
 point 71
+point 72
